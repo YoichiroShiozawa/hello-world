@@ -2,4 +2,4 @@
 Just another repository
 
 I like Apple
-I like Node.js
+I like Node
